@@ -4,3 +4,23 @@ Website where you have your own profile. You can search and add stocks to view t
 Here Are some screenshots of using the website:
 
 ![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195339.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195400.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195412.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195440.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195558.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195623.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195639.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195658.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195718.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195729.png)
+
+![image of usage of website](./screenshots%20of%20usage/Screenshot%202024-07-18%20195756.png)
