@@ -1,0 +1,37 @@
+.navbar {
+  height: var(--navbar-height);
+  width: 100%;
+  border-bottom: 1px white solid;
+  overflow-x: auto;
+}
+.navbar > ul {
+  display: flex;
+  flex-direction: row;
+  list-style: none;
+  column-gap: 1rem;
+  padding: 5px;
+  height: 100%;
+}
+.navbar > ul > li:last-child {
+  margin-left: auto;
+}
+.navbar-item {
+  align-content: center;
+  height: 100%;
+  flex-shrink: 0;
+}
+.navbar-link {
+  padding: 0.5rem;
+  border-radius: 15px;
+  text-decoration: none;
+  width: max-content;
+
+  color: white;
+}
+.navbar-link:visited {
+  color: rgb(224, 255, 230);
+}
+.navbar-image {
+  height: 100%;
+  aspect-ratio: 1;
+}

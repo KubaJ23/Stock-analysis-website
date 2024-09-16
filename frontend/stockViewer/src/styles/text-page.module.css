@@ -1,0 +1,18 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+  text-align: center;
+  padding: 20px;
+  margin: auto;
+  max-width: 70%;
+}
+.contact-us {
+  display: flex;
+  flex-direction: column;
+  text-align: left;
+  margin: 20px;
+}
+.contact-us h2 {
+  margin-top: 30px;
+}
