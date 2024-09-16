@@ -3,4 +3,4 @@ Website where you have your own profile. You can search and add stocks to view t
 
 Here Are some screenshots of using the website:
 
-![image of usage of website](/screenshots of usage/Screenshot 2024-07-18 195339.png)
+![image of usage of website](./"screenshots of usage"/"Screenshot 2024-07-18 195339.png")
